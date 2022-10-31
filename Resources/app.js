@@ -4,19 +4,17 @@
 const tableData = data; //variable is tableData, assigned to data
 
 // Reference HTML table using D3
-var tbody = d3.select("tbody"); 
+var tbody = d3.select('tbody'); 
 
 // Bulding a table
 function buildTable(data){
 
-} 
 
 // build then clear data to make room for table with data
-function.buildTable(data){
+function buildTable(data){
     tbody.html(" ");
 
 }
-
   // Next, loop through each object in the data
   // and append a row and cells for each value in the row
   data.forEach((dataRow) => {
@@ -31,7 +29,7 @@ function.buildTable(data){
       }
     );
   });
-}
+} 
 
 // ---------11.5.3  FILTERS ----------
 // function handleClick() {
