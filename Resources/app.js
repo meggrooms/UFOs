@@ -7,14 +7,14 @@ const tableData = data; //variable is tableData, assigned to data
 var tbody = d3.select('tbody'); 
 
 // Bulding a table
-function buildTable(data){
+
 
 
 // build then clear data to make room for table with data
 function buildTable(data){
     tbody.html(" ");
 
-}
+
   // Next, loop through each object in the data
   // and append a row and cells for each value in the row
   data.forEach((dataRow) => {
