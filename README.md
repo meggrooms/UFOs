@@ -4,19 +4,15 @@
 # UFO Sightings in January 1-13, 2010
 
 
-There is a title, and there are multiple paragraphs. (2 pt)
-
-Each paragraph has a heading. (2 pt)
-
-There are subheadings to break up text. (2 pt)
-
-Images are formatted and displayed where appropriate. (2 pt)
-
-
-
 ## Overview of the analysis:
 
-The purpose of the UFOs project is to create a dynamic webpage using user inputs to filter through UFO sighting data. Users are able to filter results by date, city, state, country, and shape.
+The purpose of the UFOs project is to create a dynamic webpage using user inputs to filter through UFO sighting data. Users are able to filter results by date, city, state, country, and shape. 
+
+The purpse of this project was to:<BR>
+• Build and deploy JavaScript functions, including built-in functions.<br>
+• Convert JavaScript functions to arrow functions.<BR>
+• Build and deploy forEach (JavaScript for loop).<BR>
+• Create, populate, and dynamically filter a table using JavaScript and HTML
 
 
 ## Results:
