@@ -1,4 +1,5 @@
-<img src="https://github.com/meggrooms/UFOs/blob/main/Images/goddard_nasa_sm.png">
+<p align="center">
+<img src="https://github.com/meggrooms/UFOs/blob/main/Images/goddard_nasa_sm.png" height="300" width="auto"></p>
 
 # UFO Sightings in January 1-13, 2010
 
