@@ -31,11 +31,11 @@ How to filter results:<BR>
 ### 2. Enter the parameters you'd like to search in the "Filter Search" & click return/enter.<BR><BR>
 In this example I've search for all UFO sightings over El Cajon, California<BR><br>
  <img src="https://github.com/meggrooms/UFOs/blob/main/Images/circle_Web_filter.png">
+<BR><BR>
 
-There is a description of how to perform a search, with images. (4 pt)
- Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
-
-
-## Summary:
+## Summary
+While the webpage and filter are effective, there are a few drawbacks.<BR>
+#### Drawbacks
+ 
 The summary addresses one drawback of this webpage (2 pt)
 The summary addresses two additional recommendations for further development (4 pt)
