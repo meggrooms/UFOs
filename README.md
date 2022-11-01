@@ -21,14 +21,15 @@ The purpose of the UFOs project is to create a dynamic webpage using user inputs
 
 ## Results:
 How to filter results:<BR>
-1. Visit the website<BR>
+### 1. Visit the website<BR>
  
 <img src="https://github.com/meggrooms/UFOs/blob/main/Images/web_01.png"><BR>
 
 <img src="https://github.com/meggrooms/UFOs/blob/main/Images/Web_02.png" height="600">
  <BR>
  2. Enter the parameters you'd like to search in the "Filter Search".<BR><BR>
-     &nbsp;  &nbsp; In this example I've searched for all sightings over El Cajon, California.<BR><BR><BR>
+     &nbsp;  &nbsp; In this example I've searched for all sightings over El Cajon, California.<BR><BR>
+ <img src="https://github.com/meggrooms/UFOs/blob/main/Images/circle_Web_filter.png">
 
 There is a description of how to perform a search, with images. (4 pt)
  Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
