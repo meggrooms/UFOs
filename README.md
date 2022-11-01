@@ -34,8 +34,8 @@ In this example I've search for all UFO sightings over El Cajon, California<BR><
 <BR><BR>
 
 ## Summary
-While the webpage and filter are effective, there are a few drawbacks.<BR>
-#### Drawbacks
+While the webpage and filter are effective, there are a few drawbacks with the breadth of the filter.<BR>
+#### Drawbacks and solutions
  
 The summary addresses one drawback of this webpage (2 pt)
 The summary addresses two additional recommendations for further development (4 pt)
