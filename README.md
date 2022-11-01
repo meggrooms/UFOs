@@ -13,7 +13,10 @@ Images are formatted and displayed where appropriate. (2 pt)
 
 ## Overview of the analysis:
 
-The purpose is well defined (2 pt)
+This project focuses on building a dynamic webpage that accepts user inputs and adjusts accordingly to display information about UFO sightings.
+In order to perform their analysis, users will be able to filter the UFO sightings table based on multiple criteria such as the event date, city, state, country and shape.
+
+The purpose of the UFOs project is to create a dynamic webpage using user inputs to filter through UFO sighting data. 
 
 
 ## Results:
