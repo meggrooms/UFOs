@@ -37,8 +37,13 @@ In this example I've search for all UFO sightings over El Cajon, California<BR><
 While the webpage and filter are effective, there are a few drawbacks with the breadth of the filter.<BR>
 #### Drawbacks and recommended suggestions
 The filter parameters aren't as effective as they could be. As an example, the user may not know what city they want to search. <BR>
- <strong>Recommendation:</strong> In this case having a dropdown menu with available cities could be helpful. A resource to consider is W3School, specifically <a href="https://www.w3schools.com/howto/howto_js_dropdown.asp">this link.</a><BR>
+ <strong>Recommendation:</strong> In this case having a dropdown menu with available cities could be helpful. A resource to consider is W3School, specifically <a href="https://www.w3schools.com/howto/howto_js_dropdown.asp">this link.</a><BR><BR>
 
+Users must enter all lowercase letters, which isn't intuive to most. For instance, a search for "CA" or "California" will result in a blank search. <BR>
+<strong>Recommendation:</string> The addition of a line of code similar to the one <a href="https://masteringjs.io/tutorials/fundamentals/compare-strings-ignore-case">shown on this website</a>. Adding toUpperCase() or toLowerCase() can solve this issue.<BR><BR>
+ 
+#### Further Development
+ 
 
  
 The summary addresses one drawback of this webpage (2 pt)
