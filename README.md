@@ -43,5 +43,5 @@ Users must enter all lowercase letters, resulting in inaccurate results. For ins
  
 The data can be cleaned up for consistency. The search results above have time marked in several ways, including "6 minutes", "15 min.", and "noticed from dusk to dawn". <BR>
 
-The addition of a clear filter button would make searching much easier and more user-friendly. At the moment a filed must be deleted in order to clear it, a clear filter button would look nice and make navigation far more 
+The addition of a clear filter button would make searching much easier and more user-friendly. At the moment a filter must be deleted in order to clear it, a clear filter button would look nice and make navigation far more 
 
