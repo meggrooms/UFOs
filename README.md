@@ -34,21 +34,20 @@ In this example I've search for all UFO sightings over El Cajon, California<BR><
 <BR><BR>
 
 ## Summary
-While the webpage and filter are effective, there are a few drawbacks with the breadth of the filter.<BR>
-#### Drawbacks and recommended suggestions
+While the webpage and filter are effective, there are a few drawbacks with the breadth of the filter.<BR><BR>
+ #### <ins>Drawbacks and recommended suggestions</ins>
 The filter parameters aren't as effective as they could be. As an example, the user may not know what city they want to search. <BR>
  <strong>Recommendation:</strong> In this case having a dropdown menu with available cities could be helpful. A resource to consider is W3School, specifically <a href="https://www.w3schools.com/howto/howto_js_dropdown.asp">this link.</a><BR><BR>
 
 Users must enter all lowercase letters, resulting in inaccurate results. For instance, a search for "CA" or "California" will result in a blank search. <BR>
-<strong>Recommendation:</strong> The addition of a line of code similar to the one <a href="https://masteringjs.io/tutorials/fundamentals/compare-strings-ignore-case">shown on this website</a>. Adding toUpperCase() or toLowerCase() can solve this issue.<BR><BR>
+<strong>Recommendation:</strong> Adding toUpperCase() or toLowerCase() can solve this issue. Reference <a href="https://masteringjs.io/tutorials/fundamentals/compare-strings-ignore-case">this website</a> for instructions.<BR><BR>
  
 
  #### <ins>Further Development</ins>
  
- 
- 
-Further Development Recommendations<BR>
-The data can be cleaned up for consistency. 
+The data can be cleaned up for consistency. The search results above have time marked in several ways, including "6 minutes", "15 min.", and "noticed from dusk to dawn". <BR><BR>
+
+The addition of a clear filter button would make searching much easier and more user-friendly. At the moment a filed must be deleted in order to clear it, a clear filter button would look nice and make navigation far more 
 
  
 The summary addresses one drawback of this webpage (2 pt)
