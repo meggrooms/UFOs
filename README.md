@@ -36,6 +36,9 @@ In this example I've search for all UFO sightings over El Cajon, California<BR><
 ## Summary
 While the webpage and filter are effective, there are a few drawbacks with the breadth of the filter.<BR>
 #### Drawbacks and solutions
+The filter parameters aren't as effective as they could be. As an example, the user may not know what city they want to search. In this case having a dropdown menu with available cities could be helpful. A resource to consider is W3School, specifically <a href="https://www.w3schools.com/howto/howto_js_dropdown.asp">this link.</a><BR>
+
+
  
 The summary addresses one drawback of this webpage (2 pt)
 The summary addresses two additional recommendations for further development (4 pt)
