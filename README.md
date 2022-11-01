@@ -26,8 +26,9 @@ How to filter results:<BR>
 <img src="https://github.com/meggrooms/UFOs/blob/main/Images/web_01.png"><BR>
 
 <img src="https://github.com/meggrooms/UFOs/blob/main/Images/Web_02.png" height="600">
- <BR>
- 2. Enter the parameters you'd like to search in the "Filter Search".<BR><BR>
+ <BR><BR>
+  
+### 2. Enter the parameters you'd like to search in the "Filter Search" & click return/enter.<BR><BR>
      &nbsp;  &nbsp; In this example I've searched for all sightings over El Cajon, California.<BR><BR>
  <img src="https://github.com/meggrooms/UFOs/blob/main/Images/circle_Web_filter.png">
 
