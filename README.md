@@ -29,7 +29,7 @@ How to filter results:<BR>
  <BR><BR>
   
 ### 2. Enter the parameters you'd like to search in the "Filter Search" & click return/enter.<BR><BR>
-     &nbsp;  &nbsp; In this example I've searched for all sightings over El Cajon, California.<BR><BR>
+In this example I've search for all UFO sightings over El Cajon, California<BR><br>
  <img src="https://github.com/meggrooms/UFOs/blob/main/Images/circle_Web_filter.png">
 
 There is a description of how to perform a search, with images. (4 pt)
