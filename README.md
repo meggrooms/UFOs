@@ -16,15 +16,15 @@ The purpse of this project was to:<BR>
 
 
 ## Results:
-How to filter results:<BR>
-### 1. Visit the website<BR>
+### How to filter results:<BR>
+#### 1. Visit the website<BR>
  
 <img src="https://github.com/meggrooms/UFOs/blob/main/Images/web_01.png"><BR>
 
 <img src="https://github.com/meggrooms/UFOs/blob/main/Images/Web_02.png" height="600">
  <BR><BR>
   
-### 2. Enter the parameters you'd like to search in the "Filter Search" & click return/enter.<BR><BR>
+#### 2. Enter the parameters you'd like to search in the "Filter Search" & click return/enter.<BR><BR>
 In this example I've search for all UFO sightings over El Cajon, California<BR><br>
  <img src="https://github.com/meggrooms/UFOs/blob/main/Images/circle_Web_filter.png">
 <BR><BR>
