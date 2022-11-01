@@ -25,10 +25,10 @@ How to filter results:<BR>
  
 <img src="https://github.com/meggrooms/UFOs/blob/main/Images/web_01.png"><BR>
 
- <img src="https://github.com/meggrooms/UFOs/blob/main/Images/Web_02.png" height="600">
+<img src="https://github.com/meggrooms/UFOs/blob/main/Images/Web_02.png" height="600">
  <BR>
  2. Enter the parameters you'd like to search in the "Filter Search".<BR><BR>
- In this example I've searched for all sightings over El Cajon, California.<BR><BR><BR>
+     &nbsp;  &nbsp; In this example I've searched for all sightings over El Cajon, California.<BR><BR><BR>
 
 There is a description of how to perform a search, with images. (4 pt)
  Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
